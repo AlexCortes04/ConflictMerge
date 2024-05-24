@@ -1,6 +1,5 @@
 # ConflictMerge
 ## Conflict file 
-*This is Pam's line*
-#HI 
-#HELLO
-#HOLA
+
+**This is Pam's line and also Alex's**
+
